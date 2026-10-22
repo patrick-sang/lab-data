@@ -90,7 +90,7 @@
 				null
 			],
 			"tags": [
-				"CHIRPS\nSentinel-2 NDVI\nBasis risk, underwriting",
+				"CHIRPS Sentinel-2 NDVI Basis risk, underwriting",
 				"agents, n8n, automation",
 				"alt-data, payments, python",
 				"ai, transcription, pipelines",
@@ -200,7 +200,7 @@
 				"Add details when editing…"
 			],
 			"repositoryUrl": [
-				null,
+				"https://github.com/patrick-sang\n",
 				null,
 				null,
 				null,
