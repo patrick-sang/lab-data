@@ -99,6 +99,127 @@
 				"automation, ops, cron",
 				"sms, africas-talking, payments",
 				"payments, modelling, paper"
+			],
+			"category": [
+				"Web GIS",
+				"Automation & AI",
+				"Automation & AI",
+				"Automation & AI",
+				"Automation & AI",
+				"Web GIS",
+				"Automation & AI",
+				"Automation & AI",
+				"Data Analytics"
+			],
+			"latitude": [
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null
+			],
+			"longitude": [
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null
+			],
+			"researchQuestion": [
+				"Add details when editing…",
+				"Add details when editing…",
+				"Add details when editing…",
+				"Add details when editing…",
+				"Add details when editing…",
+				"Add details when editing…",
+				"Add details when editing…",
+				"Add details when editing…",
+				"Add details when editing…"
+			],
+			"methodology": [
+				"Add details when editing…",
+				"Add details when editing…",
+				"Add details when editing…",
+				"Add details when editing…",
+				"Add details when editing…",
+				"Add details when editing…",
+				"Add details when editing…",
+				"Add details when editing…",
+				"Add details when editing…"
+			],
+			"dataSources": [
+				"Add details when editing…",
+				"Add details when editing…",
+				"Add details when editing…",
+				"Add details when editing…",
+				"Add details when editing…",
+				"Add details when editing…",
+				"Add details when editing…",
+				"Add details when editing…",
+				"Add details when editing…"
+			],
+			"findings": [
+				"Add details when editing…",
+				"Add details when editing…",
+				"Add details when editing…",
+				"Add details when editing…",
+				"Add details when editing…",
+				"Add details when editing…",
+				"Add details when editing…",
+				"Add details when editing…",
+				"Add details when editing…"
+			],
+			"limitations": [
+				"Add details when editing…",
+				"Add details when editing…",
+				"Add details when editing…",
+				"Add details when editing…",
+				"Add details when editing…",
+				"Add details when editing…",
+				"Add details when editing…",
+				"Add details when editing…",
+				"Add details when editing…"
+			],
+			"nextSteps": [
+				"Add details when editing…",
+				"Add details when editing…",
+				"Add details when editing…",
+				"Add details when editing…",
+				"Add details when editing…",
+				"Add details when editing…",
+				"Add details when editing…",
+				"Add details when editing…",
+				"Add details when editing…"
+			],
+			"repositoryUrl": [
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null
+			],
+			"demoUrl": [
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null
 			]
 		}
 	]
