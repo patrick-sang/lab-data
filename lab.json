@@ -46,7 +46,7 @@
 				"What does a payment look like if you draw every state it can be in?"
 			],
 			"note": [
-				"Twelve months of anonymised LEA payment events, a logistic baseline, no other features. It beats a coin flip and nothing else. Useful mostly as proof that I need more than one signal — which is the actual finding.",
+				"Hypothesis: requiring agreement between a weather oracle (CHIRPS anomaly + NDVI time-series) and a yield oracle (crop-health classification) cuts false positives. What I do not know yet is the conflict policy — when the two disagree, does human review scale, or does it just move the cost from field visits to desk review?",
 				"Rebuilt a fixed six-step ops workflow as a tool-calling loop.\n It handled the edge cases the flowchart couldn't and invented two failure modes the flowchart never had. Kept the tools, threw away the autonomy.",
 				"Parsed a month of M-Pesa till confirmations into a daily revenue series. The shape of a week is extremely legible — Fridays, month-end, school terms. Formal statements flatten all of that out.",
 				"Upload, transcribe, diarise, summarise, extract commitments. Works. The transcription cost per hour is the whole business model, and at Kenyan price points it doesn't close yet.",
